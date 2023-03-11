@@ -1,0 +1,8 @@
+мар. 11, 2023 2:26:23 PM writelog records
+INFO: 10 + 7 = 17
+мар. 11, 2023 2:26:50 PM writelog records
+INFO: 45 - 23 = 22
+мар. 11, 2023 2:27:06 PM writelog records
+INFO: 15 * 5 = 75
+мар. 11, 2023 2:27:21 PM writelog records
+INFO: 40.0 + 5.0 = 8.0
